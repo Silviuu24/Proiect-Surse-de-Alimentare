@@ -10,3 +10,5 @@ Proiect universitar (Anul IV) - Surse de Alimentare: Proiectarea, dimensionarea 
   * Diode 1N5059, doi condensatori de 4700 µF în paralel, transformator BREVE TEZ16/D/10.5V.
 * **`/Tema_03_Stabilizator_Liniar`**
   * Stabilizator liniar cu componente discrete, alimentat la 12.5 V cu riplu de 0.63 V, care furnizează 12 V la 100 mA.
+* **`/Tema_04_Stabilizator_Liniar_IC`**
+  * Stabilizator liniar cu circuite integrate (LM7805 și LM317), alimentat la 12.5 V cu riplu de 0.63 V, care furnizează 5 V la 200 mA.
